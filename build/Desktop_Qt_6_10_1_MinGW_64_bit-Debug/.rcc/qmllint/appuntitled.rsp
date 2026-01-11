@@ -1,0 +1,13 @@
+--bare
+-I
+C:/Users/Radic/OneDrive/Documents/untitled/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug
+-I
+F:/QT/6.10.1/mingw_64/qml
+--resource
+C:/Users/Radic/OneDrive/Documents/untitled/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/.qt/rcc/qmake_untitled.qrc
+--resource
+C:/Users/Radic/OneDrive/Documents/untitled/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/.qt/rcc/appuntitled_raw_qml_0.qrc
+--resource
+C:/Users/Radic/OneDrive/Documents/untitled/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/.qt/rcc/appuntitled_raw_res_0.qrc
+C:/Users/Radic/OneDrive/Documents/untitled/Main.qml
+C:/Users/Radic/OneDrive/Documents/untitled/Cell.qml

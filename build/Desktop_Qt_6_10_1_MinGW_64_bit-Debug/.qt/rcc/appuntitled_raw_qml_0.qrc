@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="/qt/qml/untitled/">
+    <file alias="Main.qml">C:/Users/Radic/OneDrive/Documents/untitled/Main.qml</file>
+    <file alias="Cell.qml">C:/Users/Radic/OneDrive/Documents/untitled/Cell.qml</file>
+  </qresource>
+</RCC>
+

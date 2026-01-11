@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>giphy.png</file>
+        <file>domer.jpg</file>
+        <file>david.jpg</file>
+        <file>kirk.jpg</file>
+        <file>dam.mp4</file>
+        <file>1.png</file>
+        <file>2.png</file>
+        <file>3.png</file>
+        <file>kirky.png</file>
+        <file>pokeball.png</file>
+    </qresource>
+    <qresource prefix="/audio">
+        <file>fahh.wav</file>
+        <file>domer.wav</file>
+        <file>domer_s.wav</file>
+        <file>cocoa.wav</file>
+        <file>shot.wav</file>
+        <file>boom.wav</file>
+        <file>tindeck.wav</file>
+        <file>p4.wav</file>
+    </qresource>
+</RCC>

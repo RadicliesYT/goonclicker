@@ -1,0 +1,3 @@
+set(__QT_DEPLOY_TARGET_appuntitled_FILE C:/Users/Radic/OneDrive/Documents/untitled/build/Desktop_Qt_6_10_1_MinGW_64_bit-Debug/appuntitled.exe)
+set(__QT_DEPLOY_TARGET_appuntitled_TYPE EXECUTABLE)
+set(__QT_DEPLOY_TARGET_appuntitled_RUNTIME_DLLS F:/QT/6.10.1/mingw_64/bin/Qt6Quick.dll;F:/QT/6.10.1/mingw_64/bin/Qt6OpenGL.dll;F:/QT/6.10.1/mingw_64/bin/Qt6Gui.dll;F:/QT/6.10.1/mingw_64/bin/Qt6QmlMeta.dll;F:/QT/6.10.1/mingw_64/bin/Qt6QmlModels.dll;F:/QT/6.10.1/mingw_64/bin/Qt6QmlWorkerScript.dll;F:/QT/6.10.1/mingw_64/bin/Qt6Qml.dll;F:/QT/6.10.1/mingw_64/bin/Qt6Network.dll;F:/QT/6.10.1/mingw_64/bin/Qt6Core.dll)

@@ -1,0 +1,39 @@
+{
+    "formatRevision": 1,
+    "modules": [
+        {
+            "moduleFiles": [
+                {
+                    "entries": [
+                        {
+                            "codegenResult": 0,
+                            "column": 23,
+                            "durationMicroseconds": 49727,
+                            "functionName": "fill",
+                            "line": 13,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 20,
+                            "durationMicroseconds": 4277,
+                            "functionName": "onClicked",
+                            "line": 18,
+                            "message": ""
+                        },
+                        {
+                            "codegenResult": 0,
+                            "column": 23,
+                            "durationMicroseconds": 503,
+                            "functionName": "fill",
+                            "line": 17,
+                            "message": ""
+                        }
+                    ],
+                    "filePath": "C:/Users/Radic/OneDrive/Documents/untitled/Cell.qml"
+                }
+            ],
+            "moduleId": "untitled(appuntitled)"
+        }
+    ]
+}
