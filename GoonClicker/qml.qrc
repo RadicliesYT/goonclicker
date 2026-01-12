@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/qt/qml/goonclicker">
+        <file>main.qml</file>
+        <file>Cell.qml</file>
+    </qresource>
+    <qresource prefix="/resources">
+        <file>shot.wav</file>
+        <file>1.png</file>
+        <file>2.png</file>
+        <file>3.png</file>
+        <file>david.jpg</file>
+        <file>domer.jpg</file>
+        <file>giphy.png</file>
+        <file>kirk.jpg</file>
+        <file>kirky.png</file>
+        <file>pokeball.png</file>
+        <file>fahh.wav</file>
+        <file>domer.wav</file>
+        <file>domer_s.wav</file>
+        <file>cocoa.wav</file>
+        <file>boom.wav</file>
+    </qresource>
+</RCC>
